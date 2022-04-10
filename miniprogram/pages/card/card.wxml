@@ -1,0 +1,14 @@
+<!--pages/card/card.wxml-->
+<view class="title">我的名片</view>
+
+<view class="card">
+    <image class="bg" mode="widthFix" src= "../../img/bg.jpeg"></image>
+
+    <image class="logo" src= "../../img/logo.jpg"></image>
+
+    <view class="body">
+        <view class="name">姓名：王英明</view>
+        <view class="phone">联系方式：17717841205</view>
+        <view class="email">邮箱：314851768@qq.com</view>
+    </view>
+</view>
