@@ -1,0 +1,24 @@
+<image mode="widthFix" src="../../img/babby.jpg"></image>
+
+<view class="imgDesc">
+我们可爱的宝宝
+</view>
+
+<view class="body">
+  <view class="title">2021年6月13日</view>
+  <view class="born">迎来我们第一个可爱的宝宝</view>
+
+  <view class="title">2021年7月13日</view>
+  <view class="30Days">宝宝30天了</view>
+
+  <view class="title">2021年8月12日</view>
+  <view class="60Days">宝宝30天了</view>
+
+  <view class="title">2021年9月13日</view>
+  <view class="3Days">宝宝3个月了</view>
+
+
+
+  <view class="title">2022年4月13日</view>
+  <view class="10Months">我们的宝宝马上10个月啦！</view>
+</view>
